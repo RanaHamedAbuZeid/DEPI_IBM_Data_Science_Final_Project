@@ -17,7 +17,7 @@ The repository contains the following important files:
 
 - **`preprocessed_data.csv`**: This CSV file contains the cleaned and preprocessed data used in model training and evaluation.
 
-- **`copy_file.ipynb`**: This Jupyter notebook contains the code for EDA and data preprocessing, including handling missing values, feature engineering, and data visualization.
+- **`EDA_file.ipynb`**: This Jupyter notebook contains the code for EDA and data preprocessing, including handling missing values, feature engineering, and data visualization.
 
 - **`Lumpy skin disease data.csv`**: This CSV file contains the original dataset before preprocessing.
 
@@ -79,7 +79,7 @@ The main notebook (`Model building.ipynb`) contains the following key steps:
 - **`EDA_report.docx`**: Exploratory data analysis report.
 - **`Model building.ipynb`**: Jupyter notebook containing the machine learning model code.
 - **`preprocessed_data.csv`**: Cleaned dataset used for model training.
-- **`copy_file.ipynb`**: EDA and preprocessing notebook.
+- **`EDA_file.ipynb`**: EDA and preprocessing notebook.
 - **`ne_110m_admin_0_countries.dbf`**: Geographical data file.
 - **`Lumpy skin disease data.csv`**: Original dataset.
 - **`dashboard.py`**: Dashboard file.
