@@ -1,5 +1,5 @@
 # DEPI_IBM_Data_Science_Final_Project
-# Rental Website Project - Machine Learning Models
+# Data science project on Lumpy Skin Disease - Using Machine Learning (Classification)
 
 ## Project Overview
 
