@@ -78,20 +78,15 @@ The main notebook (`Model building.ipynb`) contains the following key steps:
 - **`copy_file.ipynb`**: EDA and preprocessing notebook.
 - **`ne_110m_admin_0_countries.dbf`**: Geographical data file.
 - **`Lumpy skin disease data.csv`**: Original dataset.
+- **`dashboard.py`**: Dashboard file.
 
 - ## Dashboard Overview
 
-The **`dashboard.py`** file contains the implementation of a **Streamlit** dashboard that allows users to interact with the trained machine learning models, visualize their predictions, and explore the results. The dashboard provides an intuitive interface for non-technical users to understand the model performance.
-
-- **Technologies Used**: The dashboard is built using **Streamlit**, a Python framework for building interactive web applications.
-- **Main Features**:
-  - Visualizing the predictions from the trained models.
-  - Displaying confusion matrices, accuracy scores, and other metrics.
-  - Interactive sliders
+The **`dashboard.py`** file contains the implementation of a Python dashboard that allows users to interact with many visualizations, and explore the results. 
 
 ---
 
 ## Conclusion
 
-The project successfully demonstrates how to handle imbalanced data, perform feature selection, and build accurate machine learning models. Both Random Forest and XGBoost classifiers were evaluated, with performance comparison highlighting the stronger model. Detailed reports and code files are provided for further reference and documentation.
+The project successfully demonstrates how to handle imbalanced data, perform feature selection, and build accurate machine-learning models. Both Random Forest and XGBoost classifiers were evaluated, with performance comparison highlighting the stronger model. Detailed reports and code files are provided for further reference and documentation.
 
