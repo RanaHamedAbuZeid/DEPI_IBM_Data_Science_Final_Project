@@ -92,4 +92,11 @@ The main notebook (`Model building.ipynb`) contains the following key steps:
 ## Conclusion
 
 The project successfully demonstrates how to handle imbalanced data, perform feature selection, and build accurate machine-learning models. Both Random Forest and XGBoost classifiers were evaluated, with performance comparison highlighting the stronger model. Detailed reports and code files are provided for further reference and documentation.
+---
+---
+## Dataset Reference
+
+- **Kaggle Dataset**: [Lumpy Skin Disease Dataset](https://www.kaggle.com/datasets/saurabhshahane/lumpy-skin-disease-dataset/data)
+- **Mendeley Data**: Afshari Safavi, Ehsanallah (2021), “Lumpy Skin disease dataset”, Mendeley Data, V1, doi: [10.17632/7pyhbzb2n9.1](https://doi.org/10.17632/7pyhbzb2n9.1)
+
 
