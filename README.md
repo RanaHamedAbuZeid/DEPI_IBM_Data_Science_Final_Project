@@ -3,11 +3,13 @@
 
 ## Project Overview
 
-This repository contains the final project files for the **Rental Website** project named **"Roni"**, which involves applying machine learning techniques to analyze and predict customer data. The goal is to build models using Random Forest and XGBoost classifiers, handle imbalanced data, and perform feature selection.
+  This repository contains the final project files for the **Lumpy Skin Disease Forecasting** project. The project applies machine learning techniques to predict the occurrence of **Lumpy Skin Disease** based on meteorological and geospatial features. The goal is to build models using Random Forest and XGBoost classifiers, handle imbalanced data, and perform feature selection to improve predictive accuracy.
 
 ## Project Structure
 
 The repository contains the following important files:
+
+- **`presentation.pptx`**: A comprehensive presentation that outlines the entire data science life cycle followed during the project, including data preprocessing, model building, evaluation, and insights. It highlights key methodologies, challenges faced, solutions implemented, and final outcomes in a visually engaging format for easy understanding by both technical and non-technical audiences.
 
 - **`ML_report.docx`**: This document contains the detailed machine learning report, including model evaluation, performance metrics, and hyperparameter tuning results.
   
