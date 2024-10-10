@@ -26,9 +26,12 @@ The repository contains the following important files:
 - **`ne_110m_admin_0_countries.dbf`**: An auxiliary file that might be related to geographical data used in EDA or visualization (specific usage can be explained further if required).
   
 - **`Dashboard.py`** file contains the implementation of a Python dashboard that allows users to interact with many visualizations, and explore the results. 
-
+---
 - **`streamlit.py`**: file contains the implementation of a **Streamlit** that allows users to interact with the trained machine learning models, show the predictions, and explore the results. The website provides an intuitive interface for non-technical users to understand the model performance.
-- or use this strreamlit link directly : https://lumpydetection.streamlit.app/ 
+- or use this streamlet link directly: https://lumpydetection.streamlit.app/
+-  **`best_random_forest_model2.joblib`** file contains the final model used in the streamlit.
+
+
 ---
 
 ## Machine Learning Process
@@ -86,6 +89,8 @@ The main notebook (`Model building.ipynb`) contains the following key steps:
 - **`Lumpy skin disease data.csv`**: Original dataset.
 - **`streamlit.py`**: Interactive ML interface for non-technical users.
 - **`Dashboard.py`**: Dashboard file for visualizing Lumpy Skin Disease data.
+- **`best_random_forest_model2.joblib`** file contains the final model used in the streamlit.
+
 ---
 
 ## Conclusion
