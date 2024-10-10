@@ -28,7 +28,7 @@ The repository contains the following important files:
 - **`Dashboard.py`** file contains the implementation of a Python dashboard that allows users to interact with many visualizations, and explore the results. 
 
 - **`streamlit.py`**: file contains the implementation of a **Streamlit** that allows users to interact with the trained machine learning models, show the predictions, and explore the results. The website provides an intuitive interface for non-technical users to understand the model performance.
-
+- or use this strreamlit link directly : https://lumpydetection.streamlit.app/ 
 ---
 
 ## Machine Learning Process
