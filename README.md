@@ -5,6 +5,13 @@
 
   This repository contains the final project files for the **Lumpy Skin Disease Forecasting** project. The project applies machine learning techniques to predict the occurrence of **Lumpy Skin Disease** based on meteorological and geospatial features. The goal is to build models using Random Forest and XGBoost classifiers, handle imbalanced data, and perform feature selection to improve predictive accuracy.
 
+## Project Team members 
+
+- 1- Rana Hamed
+- 2- Heba Ibrahim
+- 3- Beshoy Ageeb 
+- 4- Eman Mansour
+
 ## Project Structure
 
 The repository contains the following important files:
