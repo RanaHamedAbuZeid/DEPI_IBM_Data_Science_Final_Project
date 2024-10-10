@@ -86,7 +86,7 @@ The main notebook (`Model building.ipynb`) contains the following key steps:
 - **`Lumpy skin disease data.csv`**: Original dataset.
 - **`dashboard.py`**: Dashboard file.
 - **`streamlit.py`**: Interactive ML interface for non-technical users.
-
+- **`dashboard.py`**: Dashboard file for visualizing Lumpy Skin Disease data.
 ---
 
 ## Conclusion
