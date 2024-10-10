@@ -9,7 +9,7 @@
 
 The repository contains the following important files:
 
-- **`presentation.pptx`**: A comprehensive presentation that outlines the entire data science life cycle followed during the project, including data preprocessing, model building, evaluation, and insights. It highlights key methodologies, challenges faced, solutions implemented, and final outcomes in a visually engaging format for easy understanding by both technical and non-technical audiences.
+- **`presentation.pdf`**: A comprehensive presentation that outlines the entire data science life cycle followed during the project, including data preprocessing, model building, evaluation, and insights. It highlights key methodologies, challenges faced, solutions implemented, and final outcomes in a visually engaging format for easy understanding by both technical and non-technical audiences.
 
 - **`ML_report.docx`**: This document contains the detailed machine learning report, including model evaluation, performance metrics, and hyperparameter tuning results.
   
@@ -75,22 +75,6 @@ The main notebook (`Model building.ipynb`) contains the following key steps:
 4. **Model Evaluation**: Performance metrics like accuracy, precision, recall, F1-score, and confusion matrix.
 5. **Feature Selection**: Utilizing ANOVA F-test for feature selection to reduce dimensionality.
 6. **Comparison**: Comparing the two models' performance and selecting the best model based on the results.
-
----
-
-## Files in the Repository
-
-- **`ML_report.docx`**: Machine learning report.
-- **`EDA_report.docx`**: Exploratory data analysis report.
-- **`Model building.ipynb`**: Jupyter notebook containing the machine learning model code.
-- **`preprocessed_data.csv`**: Cleaned dataset used for model training.
-- **`EDA_file.ipynb`**: EDA and preprocessing notebook.
-- **`ne_110m_admin_0_countries.dbf`**: Geographical data file.
-- **`Lumpy skin disease data.csv`**: Original dataset.
-- **`streamlit.py`**: Interactive ML interface for non-technical users.
-- **`Dashboard.py`**: Dashboard file for visualizing Lumpy Skin Disease data.
-- **`best_random_forest_model2.joblib`** file contains the final model used in the streamlit.
-
 ---
 
 ## Conclusion
